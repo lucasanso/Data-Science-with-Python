@@ -1,2 +1,1 @@
-#In my fifth semester of college, I studied Probability and Statistics. This encouraged me to learn how to apply the knowledge I learned in the subject to start Data Analysis with Python.
-#The focus here is to learne the core of Data Analysis and integrate it with Artificial Intelligence.
+In my fifth semester of college, I studied Probability and Statistics. This encouraged me to learn how to apply the knowledge I learned in the subject to start Data Analysis with Python. The focus here is to learn the core of Data Analysis and integrate it with Artificial Intelligence.
